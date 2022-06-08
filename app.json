@@ -1,7 +1,7 @@
 {
     "name": "Yukki Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "logo": "https://github.com/Vaathiboy/YukkiMusicBot/blob/master/app.json",
     "keywords": [
     "python3",
     "telegram",
@@ -25,12 +25,12 @@
       },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "If you want your assistant to leave all chats automatically after some time.",
-        "value": "True",
+        "value": "@Vaathi_Boy",
         "required": false
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5453384674:AAFnIOICChTa9PSC2rLfUB3waB5n5OxmkCQ",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "791870939",
         "required": true
       },
       "STRING_SESSION": {
